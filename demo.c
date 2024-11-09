@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include "CString.h"
+// Copy and past the header file in your project and use the include
+#include "CString.h" 
 
 // Demo of CString functions
 int main() {
