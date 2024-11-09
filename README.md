@@ -1,7 +1,7 @@
 # CStrings
-String manipulation functions for C Language 
+String manipulation functions for C Language
 
-# Functions:
+## Functions:
 Some of the functions include:
 - println() allows printing to stdout with a new line
 - NewStr() dynamically allocates the string based on the argument length
@@ -9,12 +9,16 @@ Some of the functions include:
 - ScanStr() uses fgets to safely get stdin
 - Input() prints a prompt and gets stdin
 
-# Functionality:
+## Functionality:
 - Error handling and exit
 - Type to string conversion
 - String comparaison
 - Safer scanning of stdin
-- Ability to print with a new line as well as format specified support
+- Ability to print with a new line as well as format specifier support
+- Demo file that showcases each main function
+
+## How to use:
+- Put the header file in your project and include it
 
 
 
